@@ -27,4 +27,21 @@ SRR3414635 | control | 20956475 | 20395865 | 18428317 | 16275997 |
 SRR3414636 | control | 20307147 | 19757059 | 17825380 | 15757580 | 
 SRR3414637 | control | 20385570 | 19847291 | 17844858 | 15736978 | 
 
-## Задание № 2
+## Задание № 2 
+
+Ссылка на google colab с R: https://colab.research.google.com/drive/1ogeHyH8hjktDxYGmZhYo9ocutpZ_At8k?usp=sharing
+
+### MA-plot
+
+![](imgs/mA.PNG) 
+
+### Тепловая карта 
+
+![](imgs/tmap.PNG) 
+
+### Наиболее значимые гены
+
+![](imgs/20.PNG)
+![](imgs/1.PNG)
+![](imgs/2.PNG)
+![](imgs/3.PNG)
