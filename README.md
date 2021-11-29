@@ -8,8 +8,6 @@
 
 ### Отчет MultiQC
 
-Ссылка на отчет: 
-
 ![](imgs/m1.PNG) 
 ![](imgs/m2.PNG) 
 ![](imgs/m3.PNG) 
@@ -20,7 +18,7 @@
 
 ![](imgs/all_counts.PNG) 
 
-| Sample ID | Type | Total reads | Successfully mapped | Uniquely mapped | Total read (hit the genes) | 
+| Sample ID | Type | Total reads | Successfully mapped | Uniquely mapped | Total reads (hit the genes) | 
 --- | --- | --- | --- | --- | --- 
 SRR3414629 | reprogramming | 21106089 | 20510113 | 18375888 | 16049609 | 
 SRR3414630 | reprogramming | 15244711 | 14832680 | 13186139 | 11465324 | 
