@@ -15,3 +15,12 @@
 ![](imgs/m3.PNG) 
 ![](imgs/m4.PNG) 
 ![](imgs/m5.PNG) 
+
+### Таблица ALL_counts и таблица с информацией по каждому образцу
+
+![](imgs/all_counts.PNG) 
+
+| Sample ID | Type | Total reads | Successfully mapped | Uniquely mapped | Total read (hit the genes) | 
+--- | --- | --- | --- | --- | --- 
+SRR3414629 | reprogramming | 21106089 | 20510113 | 18375888 | 16049609 | 
+
