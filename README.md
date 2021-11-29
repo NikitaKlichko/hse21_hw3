@@ -10,8 +10,8 @@
 
 Ссылка на отчет: 
 
-![] (imgs/m1.PNG) 
-![] (imgs/m2.PNG) 
-![] (imgs/m3.PNG) 
-![] (imgs/m4.PNG) 
-![] (imgs/m5.PNG) 
+![](imgs/m1.PNG) 
+![](imgs/m2.PNG) 
+![](imgs/m3.PNG) 
+![](imgs/m4.PNG) 
+![](imgs/m5.PNG) 
